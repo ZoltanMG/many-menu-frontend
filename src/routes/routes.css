@@ -1,0 +1,28 @@
+.mis-r-mas-r {
+    margin: auto;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.type-recetas-selected {
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+
+}
+
+.type-recetas {
+    background-color: #d6d6d6;
+    padding: 10px 20px;
+    color: tomato;
+}
+
+.receta-card-link{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

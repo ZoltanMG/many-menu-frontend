@@ -1,0 +1,28 @@
+@media (max-width: 600px) {
+    .recetacard {
+      width: 100%;
+    }
+}
+
+.recetacard {
+    border-radius: 9px;
+    margin: 5px;
+    color: black;
+}
+
+.encabezado--receta__card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+}
+
+.encabezado--receta__card .link {
+    width: 100%;
+    padding: 15px;
+    color: white;
+}
+
+.encabezado--receta__card h3{
+    padding: 15px;
+}

@@ -1,0 +1,32 @@
+.navbar {
+  background-color: tomato;
+}
+
+.contenedor-nav{
+  height: 70px;
+  margin: auto;
+  max-width: 1100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
+
+.contenedor-nav h2 {
+  padding-left: 15px;
+  cursor: default;
+}
+
+.rutas {
+  padding-right: 15px;
+}
+
+.link-nav {
+  color: white;
+  font-size: 20px;
+  padding: 5px 15px;
+}
+
+.link-nav:hover {
+  border-bottom: 2px solid white;
+}
